@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-03-22T08:23:47-00:00</lastmod>
+<lastmod>2024-03-22T08:40:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-03-22T08:23:47-00:00</lastmod>
+<lastmod>2024-03-22T08:40:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-03-22T08:23:47-00:00</lastmod>
+<lastmod>2024-03-22T08:40:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-03-22T08:23:47-00:00</lastmod>
+<lastmod>2024-03-22T08:40:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./2024-Spring-w5-blog-tutorial.html</loc>
-<lastmod>2024-03-22T08:22:27+08:00</lastmod>
+<lastmod>2024-03-22T08:37:52+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w4-blog-tutorial.html</loc>
+<lastmod>2024-03-22T08:38:42+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w4.html</loc>
+<lastmod>2024-03-22T08:38:42+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/w5.html</loc>
 <lastmod>2024-03-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -74,8 +88,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/video-clip.html</loc>
+<lastmod>2024-03-22T08:38:42+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/pelican.html</loc>
-<lastmod>2024-03-22T11:00:00+08:06</lastmod>
+<lastmod>2024-03-15T07:12:09+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
